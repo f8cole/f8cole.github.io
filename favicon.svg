@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 156" role="img" aria-label="F8">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E9BC8"/>
+      <stop offset=".55" stop-color="#A9C4E0"/>
+      <stop offset="1" stop-color="#A9C4E0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="eg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="156">
+      <stop offset="0" stop-color="#2A4C93"/>
+      <stop offset=".5" stop-color="#0F1F4B"/>
+      <stop offset="1" stop-color="#16295F"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fg)" d="M20 154 L54 154 L72 72 L104 72 L110 46 L78 46 L80 37 Q83 27 95 27 L132 27 L138 2 L90 2 Q57 2 50 34 L47 46 L24 46 Q10 46 6 60 L3 72 L42 72 Z"/>
+  <path fill="url(#eg)" fill-rule="evenodd" d="M156 2 H190 A38 38 0 0 1 190 78 H156 A38 38 0 0 1 156 2 Z M162 24 A16 16 0 0 0 162 56 H184 A16 16 0 0 0 184 24 Z"/>
+  <path fill="url(#eg)" fill-rule="evenodd" d="M160 64 H186 A44 44 0 0 1 186 152 H160 A44 44 0 0 1 160 64 Z M164 88 A20 20 0 0 0 164 128 H182 A20 20 0 0 0 182 88 Z"/>
+</svg>
